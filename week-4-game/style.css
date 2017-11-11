@@ -1,0 +1,72 @@
+
+
+
+body {
+	background-image: url('assets/images/background.png');
+}
+
+#wrapper {
+	width: 100%
+	max-width:960px;
+	margin: 0 auto;
+}
+
+#rules {
+	font-weight: bold;
+	background-color: pink;
+	margin-bottom: 10px;
+	padding: 10px;
+	width: 500px;
+	text-align: center;
+
+}
+
+h1 {
+	font-weight: bold;
+	background-color: orange;
+	padding: 10px;
+	width: 300px;
+	text-align: center;
+}
+
+#guess {
+	background-color: green;
+	float: left;
+	display: inline-block;
+	width: 250px;
+	padding: 10px;
+	margin-top: 20px;
+	}
+
+#wins-losses {
+	background-color: green;
+	float: left;
+	display: inline-block;
+	width: 200px;
+	padding: 10px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+	
+#score {
+	font-weight: bold;
+	background-color: aqua;
+	margin-top: 10px;	
+	padding: 10px;
+	width: 300px;
+	height: 50px;
+	text-align: center;
+
+}
+
+#score-box {
+	font-weight: bold;
+	background-color: aqua;
+	margin-top: 10px;	
+	padding: 10px;
+	width: 300px;
+	height: 50px;
+	text-align: center;
+}
+
